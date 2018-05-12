@@ -1,2 +1,2 @@
 # Dimer_MD
-Final project for computational biophysics
+Final project for computational biophysical chemistry class
